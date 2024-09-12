@@ -26,7 +26,7 @@ services:
       - key: SEND_USERNAME
         value: "true"
       - key: ENABLE_TTS
-        value: "true"
+        value: "false"
       - key: ENABLE_CHANNEL_POINTS
         value: "false"
       - key: COOLDOWN_DURATION
